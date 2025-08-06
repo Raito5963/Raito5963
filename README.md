@@ -18,4 +18,4 @@
 ![](https://skillicons.dev/icons?i=github,discord,obsidian,md,figma,vercel,firebase,supabase,gcp,gmail)
 
 ### IDE
-![](https://skillicons.dev/icons?i=visualstudio,vscide)
+![](https://skillicons.dev/icons?i=visualstudio,vscode)
