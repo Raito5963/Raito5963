@@ -4,4 +4,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raito5963&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raito5963&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raito5963&theme=react&utcOffset=8)
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,c,c#,c++)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python,c,cpp,cs)
