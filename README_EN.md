@@ -47,11 +47,6 @@ Currently pursuing **Information Security Assurance Engineer** and **DB Speciali
 ---
 
 ## Achievements
-
-### Certifications
-- **情報処理安全確保支援士** (Information Security Assurance Engineer)
-- **DBスペシャリスト** (Database Specialist)
-
 ### GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Raito5963&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
