@@ -1,3 +1,6 @@
+<div align="right">
+  <a href="README_EN.md">English / 英語版</a>
+</div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/181489458?v=4" width="120" alt="avatar" style="border-radius:50%;" />
   <h1>Raito5963</h1>
