@@ -13,7 +13,7 @@
 
 ## Skills
 ### たぶんできる
-![](https://skillicons.dev/icons?i=ts,js,html,css,c,cs,cpp,py)
+![](https://skillicons.dev/icons?i=ts,go,html,css,c,cs,cpp,py)
 
 ### たぶんつかえる
 ![](https://skillicons.dev/icons?i=nextjs,react,nuxtjs,tailwind,anaconda,nodejs)
